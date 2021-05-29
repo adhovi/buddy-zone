@@ -13,6 +13,6 @@
         color: 'rgba(0,183,255, 1)',
     },
     image: {
-        marginLeft: '10px',
+        marginLeft: '15px',
     },
     }));
